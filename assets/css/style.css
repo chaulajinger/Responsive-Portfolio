@@ -28,7 +28,7 @@ footer {
 	color: #cccccc;
 	background-color: #666666;
 	border-top: 5px solid;
-	border-top-color: #0b8d87be;
+	border-top-color: #096863;
     height: 70px;
     width: 100%;
 	text-align: center;
@@ -47,23 +47,23 @@ h1, h2, h3 {
 h1 {
 	font-size: 2em;
 	color: white;
-	background-color: #07686396;
+	background-color: #096863;
 }
 
 h2 {
 	font-size: 1.5em;
-	color: #085c58b0;
+	color: #096863;
 }
 
 
 h3 {
 	font-size: 1.2em;
-	color: #6e0666be;
+	color: #096863;
 }
 
 sidebar h2 {
 	font-size: 1.5em;
-	color: #19a19bad;
+	color: #096863;
 }
 
 hr {
@@ -196,7 +196,7 @@ nav a {
 	bottom: 13%;	
 	width: 290px;
 	color: white;
-	background-color: #4aaaa5;
+	background-color: #0712ad;
 	opacity: 0.75;	
 	font-family: 'Georgia', serif;
 	font-weight: bold;
@@ -217,7 +217,7 @@ nav a {
 
 #subbtn {
 	color: white;
-	background-color: #4aaaa5;
+	background-color: #096863;
 	padding: 10px 20px;
 	font-size: 1.2em;
 }
@@ -330,7 +330,7 @@ a:visited {
 	.topname  {
 		float: none;
 		width: 100%;
-		background-color: #4aaaa5;
+		background-color: #096863;
 	}
 
 	.navitems {
